@@ -10,14 +10,15 @@
 	
 
 新版本的通知群：
-qq群：
+## qq群（请老用户加新的QQ群，原QQ群已被官方制裁封禁）：
 
-		964125692
+	924229356
+	922987902
+	170751998
+	314226405
 
-  		1064862576
 
-
-TG：https://t.me/+_3rhEtjaQElhMTgx
+TG群：https://t.me/+_3rhEtjaQElhMTgx
 
 # v4.9.8
 
@@ -70,7 +71,8 @@ TG：https://t.me/+_3rhEtjaQElhMTgx
 3.VIP福袋池的实物福袋会更多。
 4.支持自动停止抢福袋的功能，可以按需设置停止条件，满足设定的最大抢福袋数量或运行时长后会立即停止。
 
-VIP充值链接： https://www.goofish.com/personal?userId=2220649396822
+VIP充值链接： 
+	https://www.cnblogs.com/usyd/p/19329881
 
 ![新版本说明](使用教程/7、新版本说明.png "新版本说明")
 
@@ -94,7 +96,7 @@ VIP充值链接： https://www.goofish.com/personal?userId=2220649396822
 
 9.支持http/https代理。在软件目录中配置proxy.txt即可。一行一个，格式为ip:port@user#password，无用户密码的代理可以留空，如8.8.8.8:8888@#
 
-10.VIP充值链接： https://www.goofish.com/personal?userId=2220678682876
+10.VIP充值链接： https://www.cnblogs.com/usyd/p/19329881
 
 
 
